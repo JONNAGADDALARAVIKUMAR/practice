@@ -37,3 +37,4 @@ done
 
 echo -e "\n\tSecond smallest Number : "${array[1]}
 echo Ravi
+echo Ravikumar
