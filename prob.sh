@@ -9,7 +9,7 @@ fi
 ((array[i]=$value))
 done
 echo -e "\n\tTotal elements in array : "${array[@]}
--for((i=0; i<2; i++))
+for((i=0; i<2; i++))
 do
 for((j=$i+1; j<10; j++))
 do
